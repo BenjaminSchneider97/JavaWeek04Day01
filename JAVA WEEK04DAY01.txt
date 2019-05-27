@@ -1,0 +1,89 @@
+Stakeholders involved in this project:
+
+state
+ministry of education
+tagteam
+it company
+
+
+
+ask principal about the requirenmets for their project
+
+how do you keep track of the students right now
+
+how do you want to add the tagteam to our it tracking system
+
+whats the budget
+
+
+
+####################################################################################
+
+
+
+browser application that can be accessed by school and tagteam members
+
+database with all teachers and students
+
+database tracks grades and subjects and abnormality of some students
+
+color rating for students depending on behaviour/grades
+	-> green for good students
+	-> yellow for students who need assitance in some subjects
+	-> red for students with bad grades and behavioral problems
+
+color rating gets created by average grades and register entries and attendence
+
+ensure data privacy for sharing the data with third-party organisations
+
+school/teacher is able to see all grades and data from a student
+
+in order to be able to share the data from a student wee need the permission (signature) from the parents
+
+school can share students who are in yellow/red to the ngo 
+
+as soon as a students enters yellow ask if everything is okay and offer help
+
+prevent students to go to red as good as possible (warning system when student gets close to red)
+
+IF a students gets to red parents and student himself get invited to principal and the teacher in which subject he has problems to discuss a solution for the problem
+
+from time to time ngos tutors and teachers from school meet up to discuss students progress
+
+
+
+#######################################################################
+
+
+
+SYSTEM FOR SCHOOL
+
+database with student data
+
+keeps track of students grades and behavioral abnormalities
+
+system that puts the students based on the provided data in to the green color zones (green/yellow/red)
+
+if we have the permission of the parents we can share the problem students data to the ngo
+
+
+
+SYSTEM FOR NGO
+
+gets the data from the school
+
+puts students based on age and subject into a class
+
+although students sit in the same class they can still get different exercises during the class
+
+one class can have many students but only one teacher
+
+ngos check attendence of students
+
+classes take place either on saturdays or in the afternoons after school
+
+in case of reexamination ngos also offer classes during the summer
+
+
+
+###########################################################################
