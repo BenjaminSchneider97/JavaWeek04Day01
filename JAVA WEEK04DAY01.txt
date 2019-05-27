@@ -1,7 +1,10 @@
+REQUIREMENTS ENGINEERING
+-----------------------------------------------------------------------------------
+
 Stakeholders involved in this project:
 
-state
-ministry of education
+
+state (ministry of education) 
 tagteam
 it company
 
@@ -18,6 +21,15 @@ whats the budget
 
 
 ####################################################################################
+some general arguments+
+
+school - gets better system, improves efficiency, better rates of graduation, gets support from state (money)
+it company - gets a good deal
+tagteam - gets a good deal
+state - better education system = better educated people on the job market = less unemployed people = more money for the state
+
+####################################################################################
+
 
 
 
